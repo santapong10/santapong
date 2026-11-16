@@ -14,7 +14,7 @@
 -------------------------------------------------
 -- CONFIG
 -------------------------------------------------
-local WEBHOOK_URL = "https://discord.com/api/webhooks/xxxxxxxxxxx"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1254702199171448883/zUHXUvtOhL8NjiUdLXM3hbxsU4--2pHMqeba7vxFNRSRhE1-MKn_ujVAkIb2ap2OyiNx"
 
 -- เก็บข้อมูลดรอปเข้า Firebase (แบบ money tracker)
 -- เว็บจะอ่านจาก path นี้
