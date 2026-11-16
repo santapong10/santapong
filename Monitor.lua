@@ -1,5 +1,5 @@
 --[[
-	Anime Adventures Farming Monitor
+	des Farming Monitor
 	Ready-to-use · Stage-end webhook only · Inventory drop diff
 
 	Features
