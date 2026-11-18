@@ -1,5 +1,5 @@
 --[[
-	Anime Adventures Farming Monitor (Fixed & Isolated)
+	es Farming Monitor (Fixed & Isolated)
 	- ส่ง Webhook และบันทึก API ได้แม้เปิดสคริปต์ออโต้ฟาร์มร่วมด้วย
 	- ป้องกันตัวแปร / Callback / Connection ชนกับสคริปต์อื่น
 	- ตรวจสอบ HTTP Response (StatusCode / Retry-After) และบันทึก Error Log
